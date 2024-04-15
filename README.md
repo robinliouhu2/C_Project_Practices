@@ -28,5 +28,8 @@ C语言工程实践课程源码
 2.  shen_gun_suan_ming  神棍算命      输入您的大名，进行相关的爱情和运势的测算 “神棍算命，学习使用，不可当真”
 3.  Plant vs Monster    植物大战妖怪  可以通过上下左右按键控制人物移动、空格发射子弹 干掉各种妖怪
 
+#### git 客户端备用地址
+考虑国内网络问题，git 客户端备份地址：https://github.com/robinliouhu2/Git-Client （网络允许，推荐官网下载）
+
 
 
